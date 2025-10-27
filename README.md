@@ -12,7 +12,6 @@ A powerful Visualization tool that allows users to draw various shapes based on 
 ## InterFace
 ![Logo](screenshots/s1.png)
 
-
 ## Getting Started
 
 ### Prerequisites
@@ -22,10 +21,6 @@ A powerful Visualization tool that allows users to draw various shapes based on 
 ### Installation
 
 1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/code-scannner/VisualizerTool.git
-   ```
    
 2. Install [gtk-3.0]("https://www.gtk.org/docs/installations/") into your system. (Windows and Ubuntu has to be installed differently).
 
@@ -35,14 +30,4 @@ A powerful Visualization tool that allows users to draw various shapes based on 
 
 5. Run the generated **main.exe** file.
   
-## Contributors
 
-A big thank you to the following individuals for their contributions to this project:
-
-- [Utkarsh Trivedi](mailto:221210114@nitdelhi.ac.in) (Myself)
-- [Shreyansh Gupta](mailto:221210099@nitdelhi.ac.in) 
-- [Shivam Kumar](mailto:221210098@nitdelhi.ac.in)
-
-## Contact
-
-For questions or inquiries, please contact [<ins>here</ins>](trivediutkarsh31@gmail.com).
